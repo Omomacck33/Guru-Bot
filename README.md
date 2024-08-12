@@ -106,7 +106,7 @@ GURU-BOT- Simple Multi Device whatsapp bot.
  
  ## 🤩 Support
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+SUPPORT GROUP: <a href="[https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp](https://whatsapp.com/channel/0029Vakp5lvI7BeHPAtVmx2a)"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
 - Star ⭐ the repo if you like GURU-BOT.
 
@@ -120,15 +120,12 @@ SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img a
 
 
 ## `Main Dev` 
-<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+<a href="https://github.com/Omomacck33"><img src="https://github.com/Omomacck33.png" width="250" height="250" alt="Guru322"/></a>
   
-`GURU-BOT - By Guru322`
+`GURU-BOT - By Awmtea Polythene`
 
 ### CONTRIBUTORS
-<a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
-<a href="https://github.com/Amrit9304"><img src="https://github.com/Amrit9304.png" width="200" height="200" alt="Amrit"/></a>
-<a href="https://github.com/Ghost7798"><img src="https://github.com/Ghost7798.png" width="200" height="200" alt="Ghost7798"/></a>
-<a href="https://github.com/Kai0071"><img src="https://github.com/Kai0071.png" width="200" height="200" alt="Kai"/></a>
+<a href="https://github.com/Omomacck33"><img src="https://github.com/Omomacck33.png" width="200" height="200" alt="Ash"/></a>
 
 <h2 align="center">  Reminder
 </h2>
